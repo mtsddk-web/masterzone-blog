@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "memberCount": 28,
+    "lastUpdated": "2025-01-15T09:00:00Z",
+    "totalPosts": 6
+  },
+  "posts": [
+    {
+      "id": "001",
+      "title": "Jak zwiększyliśmy produktywność o 40% dzięki automatyzacji",
+      "slug": "automatyzacja-produktywnosc-case-study",
+      "excerpt": "Case study: Zobacz jak wdrożenie automatyzacji w dziale sprzedaży pozwoliło nam zaoszczędzić 15 godzin tygodniowo i zwiększyć konwersję.",
+      "content": "## Wyzwanie\n\nPrzed automatyzacją nasz zespół sprzedażowy spędzał 15 godzin tygodniowo na ręcznym wprowadzaniu danych do CRM, wysyłaniu follow-upów i generowaniu raportów.\n\n## Rozwiązanie\n\nWdrożyliśmy 3 kluczowe automatyzacje:\n\n1. **Automatyczny import leadów** z formularzy do CRM (Make.com + HubSpot)\n2. **Sekwencje follow-up** - AI generuje spersonalizowane emaile (Claude API)\n3. **Raporty tygodniowe** - automatyczne dashboardy w Google Sheets\n\n## Rezultaty\n\n- ⏱️ **15 godzin tygodniowo zaoszczędzone**\n- 📈 **+40% produktywność** zespołu\n- 💰 **+25% konwersja** (dzięki szybszym follow-upom)\n- 🎯 **0 błędów** w danych (vs 12% błędów ręcznych)\n\n## Co możesz wdrożyć dziś\n\n1. Zacznij od **jednej** automatyzacji (nie wszystkich naraz)\n2. Wybierz najbardziej powtarzalny proces\n3. Użyj Make.com lub n8n (prosty start)\n4. Testuj 2 tygodnie przed skalowaniem\n\n**Kluczowa lekcja:** Automatyzacja to nie \"wszystko albo nic\". Jeden dobry workflow może zaoszczędzić 5h/tydzień.",
+      "category": "case-study",
+      "emoji": "📊",
+      "author": "Mateusz Dudek",
+      "date": "2025-01-10",
+      "readingTime": "8 min",
+      "tags": ["automatyzacja", "produktywność", "case-study", "sprzedaż"]
+    },
+    {
+      "id": "002",
+      "title": "5 narzędzi AI które używamy w Masterzone",
+      "slug": "narzedzia-ai-masterzone",
+      "excerpt": "Praktyczny przegląd narzędzi AI, które naprawdę działają w codziennej pracy przedsiębiorcy. Testowane na sobie.",
+      "content": "## 1. Claude (Anthropic) - Asystent strategiczny\n\n**Do czego:** Pisanie artykułów, analiza danych, coding, strategia biznesowa\n\n**Dlaczego lepsze niż ChatGPT:**\n- Dłuższe odpowiedzi (200k tokens context)\n- Lepsze zrozumienie nuansów\n- Artifacts (generuje kod w live preview)\n\n**Koszt:** $20/mies (Claude Pro)\n\n## 2. Make.com - Automatyzacje\n\n**Do czego:** Łączenie aplikacji, workflow automation\n\n**Przykłady:**\n- Lead z formularza → CRM → Slack notification\n- AI generuje raport → wysyła email\n- Skraca 2h pracy do 2 minut\n\n**Koszt:** $9/mies (hobby tier wystarczy na start)\n\n## 3. Notion AI - Organizacja wiedzy\n\n**Do czego:** Baza wiedzy, meeting notes, dokumentacja\n\n**Killer feature:** Autofill - AI uzupełnia tabele z danych\n\n**Koszt:** $10/mies (dodatkowe do Notion)\n\n## 4. Gamma.app - Prezentacje\n\n**Do czego:** Tworzenie pitch decków, prezentacji\n\n**Wow moment:** Piszesz prompt, dostajesz pełny deck w 2 minuty\n\n**Koszt:** Free tier wystarczy\n\n## 5. Perplexity - Research\n\n**Do czego:** Deep research z cytowaniami\n\n**Przewaga:** Źródła + aktualne dane (vs ChatGPT cutoff)\n\n**Koszt:** $20/mies (Pro)\n\n## Nasze podejście\n\nNie używamy AI do wszystkiego. **Rule of thumb:**\n\n✅ Używaj AI: powtarzalne zadania, research, draft content\n❌ Nie używaj: finalne decyzje, relacje z klientami, kreatywność strategiczna\n\n**Total koszt naszego AI stack: ~$70/mies**\n**Zaoszczędzony czas: ~20h/tydzień**\n\nROI = 🚀",
+      "category": "ai",
+      "emoji": "🤖",
+      "author": "Mateusz Dudek",
+      "date": "2025-01-08",
+      "readingTime": "6 min",
+      "tags": ["ai", "narzędzia", "produktywność"]
+    },
+    {
+      "id": "003",
+      "title": "Jak efektywnie zarządzać zespołem zdalnym",
+      "slug": "zarzadzanie-zespolem-zdalnym",
+      "excerpt": "Sprawdzone metody i narzędzia do zarządzania zespołem rozproszonym geograficznie. 3 lata doświadczenia w jednym artykule.",
+      "content": "## Problem samotności zdalnej pracy\n\nKiedy w 2022 przeszliśmy 100% remote, myśleliśmy że produktywność wzrośnie. Spadła o 30%.\n\n**Dlaczego?**\n- Brak spontanicznych rozmów\n- Trudności w onboardingu\n- Procrastynacja bez presji biura\n- Brak „team spirit"\n\n## Co naprawdę działa\n\n### 1. Deep Work Blocks (najważniejsze!)\n\n**Zasada:** 3 godziny dziennie = ZERO meetings, ZERO Slacka\n\n**Nasza implementacja:**\n- 9:00-12:00 = Deep Work (czerwony status w Slack)\n- 12:00-16:00 = Meetings + collaboration\n- 16:00-17:00 = Async catchup\n\n**Rezultat:** +60% output w deep work vs normalny dzień\n\n### 2. Daily Standups (5 minut!)\n\n**Format:**\n- Zoom video, kamera ON\n- Każdy: \"Co zrobiłem, co robię dziś, blokery\"\n- MAX 5 minut total\n- Nie jest to czas na problem solving\n\n**Klucz:** Konsystencja. Codziennie o 8:55.\n\n### 3. Friday Demos\n\n**Co:** Każdy pokazuje co zrobił w tym tygodniu (15 min/osoba)\n\n**Dlaczego działa:**\n- Social pressure (nie chcesz przyjść z pustymi rękami)\n- Uczysz się od teammatów\n- Buduje team spirit\n\n### 4. Async by Default\n\n**Reguła:** Jeśli nie wymaga live reakcji → Slack/Loom\n\n**Tools:**\n- Loom (video messages)\n- Slack (threads, nie chaotyczne wiadomości)\n- Notion (dokumentacja)\n\n### 5. IRL Meetups (2x/rok)\n\nNajlepszy ROI. 3 dni razem = bond na pół roku.\n\n## Narzędzia\n\n1. **Slack** - komunikacja (free tier wystarcza)\n2. **Zoom** - video (paid, worth it)\n3. **Notion** - docs ($10/user/mies)\n4. **Loom** - async video (free)\n5. **ClickUp** - task management ($7/user/mies)\n\n**Total: ~$20/user/miesiąc**\n\n## Biggest Lesson\n\nRemote to nie \"biuro przez Zoom\". To **NOWY sposób pracy**.\n\nTrzeba:\n- Więcej async\n- Więcej dokumentacji\n- Mniej meetingów\n- Więcej intentional connection\n\nNasz sweet spot: **80% async, 20% sync**",
+      "category": "produktywnosc",
+      "emoji": "🌍",
+      "author": "Radek Pustelnik",
+      "date": "2025-01-05",
+      "readingTime": "10 min",
+      "tags": ["remote", "zarządzanie", "zespół", "produktywność"]
+    }
+  ]
+}
