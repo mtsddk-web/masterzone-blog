@@ -1,10 +1,11 @@
 {
   "meta": {
     "memberCount": 28,
-    "lastUpdated": "2025-01-15T09:00:00Z",
-    "totalPosts": 3
+    "lastUpdated": "2025-10-08T14:11:26.945Z",
+    "totalPosts": 4
   },
   "posts": [
+    null,
     {
       "id": "001",
       "title": "Jak zwiększyliśmy produktywność o 40% dzięki automatyzacji",
@@ -16,7 +17,12 @@
       "author": "Mateusz Dudek",
       "date": "2025-01-10",
       "readingTime": "8 min",
-      "tags": ["automatyzacja", "produktywność", "case-study", "sprzedaż"]
+      "tags": [
+        "automatyzacja",
+        "produktywność",
+        "case-study",
+        "sprzedaż"
+      ]
     },
     {
       "id": "002",
@@ -29,7 +35,11 @@
       "author": "Mateusz Dudek",
       "date": "2025-01-08",
       "readingTime": "6 min",
-      "tags": ["ai", "narzędzia", "produktywność"]
+      "tags": [
+        "ai",
+        "narzędzia",
+        "produktywność"
+      ]
     },
     {
       "id": "003",
@@ -42,7 +52,12 @@
       "author": "Radek Pustelnik",
       "date": "2025-01-05",
       "readingTime": "10 min",
-      "tags": ["remote", "zarządzanie", "zespół", "produktywność"]
+      "tags": [
+        "remote",
+        "zarządzanie",
+        "zespół",
+        "produktywność"
+      ]
     }
   ]
 }
